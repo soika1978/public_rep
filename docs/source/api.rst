@@ -6,7 +6,7 @@ This is *test* itallic
 
 and finally:
 
-Note
+note::
 
 dshgfshgfsdgfsd
 
