@@ -8,7 +8,7 @@ and finally:
 
 .. note::
 
-dshgfshgfsdgfsd
+   Dshgfshgfsdgfsd
 
 .. autosummary::
    :toctree: generated
